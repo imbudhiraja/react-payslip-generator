@@ -1,0 +1,24 @@
+.inputContainer{
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.title {
+    text-align: left;
+    font-size: 1em;
+}
+
+.textInput{
+    margin: 1em;
+    height: 1.5em;
+    width: 18em
+}
+
+.submit-button-style{
+    margin: 1em;
+}
+
+.error-message{
+    color: red;
+    font-size: 0.8em
+}
