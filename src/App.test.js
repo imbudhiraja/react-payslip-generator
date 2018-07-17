@@ -23,7 +23,7 @@ describe('App component testing', () => {
     expect(wrapper.find('TextInput')).to.have.length(3);
   });
 
-  it('check button existsm, buttons parents', () => {
+  it('check button existance, buttons parents', () => {
     expect(wrapper.find('.submit-button-style').parent().is('form')).to.equal(true);
     expect(wrapper.find('.submit-button-style').parents()).length(2);
     expect(wrapper.find('.submit-button-style').length).to.equal(1);

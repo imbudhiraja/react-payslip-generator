@@ -1,7 +1,7 @@
 {
-  "name": "react-webpack-mocha-enzyme-demo",
+  "name": "react-payslip-generator",
   "version": "1.0.0",
-  "description": "react-webpack-mocha-enzyme-demo",
+  "description": "react-payslip-generator",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
